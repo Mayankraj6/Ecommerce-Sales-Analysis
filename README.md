@@ -34,7 +34,7 @@ Installation & Usage
 bash
 Copy
 Edit
-git clone https://github.com/YOUR_USERNAME/Ecommerce-Sales-Analysis.git  
+git clone [https://github.com/YOUR_USERNAME/Ecommerce-Sales-Analysis.git  ](https://github.com/Mayankraj6/Ecommerce-Sales-Analysis/edit/main/README.md)
 cd Ecommerce-Sales-Analysis
 2️⃣ Install dependencies:
 
