@@ -1,6 +1,10 @@
 Project Overview
 This project analyzes ecommerce sales data to uncover key insights into customer behavior, product trends, and overall business performance. Using Python, we explore sales trends, identify top products and customers, and perform RFM and churn analysis to improve business strategies.
 
+📂 The dataset is available on Kaggle:  
+🔗 [Download from Kaggle](https://www.kaggle.com/datasets/mayankraj0698/ecommerce-sales-data)  
+
+
 Dataset
 The dataset includes transactional records such as InvoiceNo, StockCode, Description, Quantity, InvoiceDate, UnitPrice, CustomerID, and Country.
 Additional columns like TotalSales (Quantity * UnitPrice) and Profit were derived for deeper analysis.
