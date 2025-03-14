@@ -1,0 +1,70 @@
+Ecommerce Sales Analysis Project Summary
+
+Objective:
+This project aims to analyze ecommerce sales data to uncover insights related to customer behavior, product trends, and overall business performance using Python.
+
+Key Steps:
+
+Data Preprocessing:
+
+Loaded and cleaned the dataset.
+
+Converted date columns into datetime format.
+
+Created a new column for total sales (Quantity * Unit Price).
+
+Removed missing values and standardized data types.
+
+Exploratory Data Analysis (EDA):
+
+Identified top-selling products and best-performing customers.
+
+Analyzed country-wise sales distribution.
+
+Evaluated monthly sales trends to detect seasonality.
+
+RFM Analysis (Recency, Frequency, Monetary):
+
+Calculated customer purchase recency, frequency, and total spending.
+
+Identified valuable and at-risk customers.
+
+Churn Analysis:
+
+Determined inactive customers based on median recency.
+
+Assessed potential churned customers for retention strategies.
+
+Product Trends Over Time:
+
+Analyzed top product sales over different months.
+
+Visualized changing demand patterns.
+
+Seasonality and Profitability Analysis:
+
+Investigated peak and off-peak seasons for sales.
+
+Estimated profitability by assuming cost as 70% of unit price.
+
+Identified the most profitable products.
+
+Visualizations Used:
+
+Line charts for sales trends and seasonality.
+
+Bar charts for top-selling products, customers, and country-wise sales.
+
+Annotated data labels for better interpretability.
+
+Conclusion:
+This project provided actionable insights into customer purchasing behavior, high-performing products, and sales trends. The analysis can help businesses improve marketing strategies, optimize inventory management, and enhance customer retention efforts.
+
+Future Enhancements:
+
+Implement predictive modeling for future sales forecasting.
+
+Apply machine learning clustering techniques for customer segmentation.
+
+Optimize pricing strategies based on demand fluctuations.
+
